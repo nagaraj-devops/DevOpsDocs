@@ -2,7 +2,7 @@
 # Jenkins CI/CD Pipeline using Maven and Tomcat
 
 This guide describes how to create a complete CI/CD pipeline using **Jenkins**, **Maven**, and **Tomcat**  
-Repository used: https://github.com/nramnad/maven-project.git
+Repository used: https://github.com/nagaraj-devops/maven-project.git
 
 ---
 
@@ -16,7 +16,7 @@ Repository used: https://github.com/nramnad/maven-project.git
 - Select **Git**
 - Repository URL:
   ```
-  https://github.com/nramnad/maven-project.git
+  https://github.com/nagaraj-devops/maven-project.git
   ```
 
 ### Build Configuration
@@ -167,7 +167,7 @@ Click **Save**.
 - Job type: **Freestyle**
 - SCM:
   ```
-  https://github.com/nramnad/maven-project.git
+  https://github.com/nagaraj-devops/maven-project.git
   ```
 
 ### Build
